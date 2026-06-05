@@ -146,7 +146,10 @@ source venv/bin/activate
 ```bash
 pip install pandas numpy matplotlib seaborn scipy jupyter
 ```
-
+atau
+```bash
+pip install -r requirements.txt
+```
 ---
 
 # 💻 Penggunaan
