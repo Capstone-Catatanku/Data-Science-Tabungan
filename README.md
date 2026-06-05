@@ -205,6 +205,7 @@ Proyek ini bertujuan untuk menjawab beberapa pertanyaan seperti:
 
 ## Technical Report
 https://drive.google.com/file/d/1VnePd5dlUXD865H7xTdwwXcPEsU1ikP_/view?usp=drive_link
+
 ---
 
 ## 💖 Penghargaan
