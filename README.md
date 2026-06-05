@@ -203,6 +203,8 @@ Proyek ini bertujuan untuk menjawab beberapa pertanyaan seperti:
 - Bagaimana pola dan statistik jarak hari menabung (`jarak_hari_nabung`) bagi pengguna yang berhasil menyelesaikan tabungannya (`status = Selesai`)? (Jawaban: Rata-rata 21.6 hari, median 19.0 hari, standar deviasi 19.9 hari)
 - Bagaimana karakteristik deskriptif target nominal dan jumlah setoran pengguna dalam mendeteksi outliers? (Jawaban: Target nominal median sebesar Rp 7.030.000, sedangkan rata-ratanya Rp 16.832.386, dan median setoran nominal menabung sebesar Rp 163.668)
 
+## Technical Report
+https://drive.google.com/file/d/1VnePd5dlUXD865H7xTdwwXcPEsU1ikP_/view?usp=drive_link
 ---
 
 ## 💖 Penghargaan
